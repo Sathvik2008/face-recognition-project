@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+    color:white;
+}
+#title{
+    font-weight: bold;
+    color: white;
+}
